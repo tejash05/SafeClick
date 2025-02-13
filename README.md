@@ -31,16 +31,11 @@ With an **intuitive interface, automated detection, and a robust backend powered
 ---
 
 ## 📌 **Tech Stack**  
-
-<img src="https://raw.githubusercontent.com/yourusername/repo/main/assets/tech-stack.png" width="800"/>  
-
----
+![Tech Stack](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY/main/assets/tech-stack.png)  
 
 ## 📌 **Tools Used**  
+![Tools](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY/main/assets/tools.png)  
 
-<img src="https://raw.githubusercontent.com/yourusername/repo/main/assets/tools.png" width="800"/>  
-
----
 
 ## 📌 **Setup & Installation**  
 
