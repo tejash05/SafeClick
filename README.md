@@ -60,41 +60,34 @@ With an **intuitive interface, automated detection, and a robust backend powered
 
 npm run build
 
-🔹 To Start the Dashboard (Client)
+## How to Start the Project
 
-Run the following:
+```sh
+# Start the Extension: Open Developer Tools, Unpack the extension using the 'dist' folder, then run:
+npm run build
+```
 
-cd frontend  
-npm run dev  
+```sh
 
-🔹 To Start the Dashboard (Server)
+# Start the Dashboard Client
+cd frontend
+npm run dev
+```
 
-Run the following:
+```sh
 
-cd backend  
-cd api  
-nodemon server.js  
+# Start the Dashboard Server
+cd ../backend/api
+nodemon server.js
+
+```
 
 📌 Model Links
 
-📌 Front & Backend Repository → SafeClick
+## Project Links
 
-🔗 Clone URL Detection Model → Hack SafeClick
+- **Frontend & Backend:** [Hack_SafeClick](https://github.com/khushi505/Hack_SafeClick)
+- **Clone Website Detection Model:** [Check Clone](https://clone-6nb2.onrender.com/check-clone)
+- **Browser Extension:** [SafeClick Extension](https://github.com/HARSHSINGH3118/SafeClick)
 
-🔗 Clone Website Detection Model → Check Clone
-
-🔗 Extension Repository → SafeClick Extension
-
-
----
-
-### ✅ **What’s Improved?**  
-✔ **Better Readability** – Clear line spacing makes it easy to follow.  
-✔ **Proper Code Formatting** – Commands now stand out clearly.  
-✔ **Professional Look** – Icons and badges keep it structured.  
-✔ **Direct Clickable Links** – Makes navigation effortless.  
-
----
-
-🚀 **Just copy & paste this into your README file, and you’re all set!** 🚀🔥 Let me know if you need any refinements. 😊
 
