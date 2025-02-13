@@ -1,42 +1,55 @@
-Hack SafeClick
+# 🚀 Hack SafeClick  
 
-Hack SafeClick is a cutting-edge Chrome extension integrated with a dashboard, designed to protect users from phishing, scams, and malicious websites in real-time. Leveraging the MERN stack and an advanced XGBoost model, the extension analyzes website URLs based on multiple factors like past URL behavior, domain checks, and clone detection to provide instant safety alerts.
+**Hack SafeClick** is a **cutting-edge Chrome extension** integrated with a **dashboard**, designed to protect users from phishing, scams, and malicious websites in real-time.  
 
-The extension also includes a website clone detection system, utilizing:
-✅ HTML structure analysis
-✅ Visual similarity (SSIM)
-✅ WHOIS verification
+It leverages the **MERN stack** and an advanced **XGBoost model**, analyzing website URLs based on **past URL behavior, domain checks, and clone detection** to provide **instant safety alerts**.  
 
-With an intuitive interface, automated detection, and a robust backend powered by Express API, Hack SafeClick ensures a seamless and secure browsing experience, keeping users protected from cyber threats effortlessly.
-🚀 Key Features
-🔹 Chrome Extension & Dashboard
+Additionally, the extension includes a **website clone detection system**, utilizing:  
+✅ **HTML structure analysis**  
+✅ **Visual similarity (SSIM)**  
+✅ **WHOIS verification**  
 
-✔ Fully operational Chrome extension with a user-friendly interface
-✔ Comprehensive dashboard for monitoring safety alerts & analytics
-🔹 Seamless Development & Deployment
+With an **intuitive interface, automated detection, and a robust backend powered by Express API**, Hack SafeClick ensures a **seamless and secure browsing experience**, keeping users protected from cyber threats effortlessly.  
 
-✔ Built, integrated, and deployed an optimized ML model
-✔ Ensures real-time analysis and user protection
-🔹 Core Detection Features
+---
 
-✔ Malicious URL Detection (fake, phishing, spam, scam, and malicious URLs)
-✔ Clone URL Detection (detects visually similar but deceptive URLs)
-✔ Clone Website Detection (identifies visually cloned fraudulent sites)
-🔧 Technical Stack
+## 📌 Features  
 
-✅ Front End: React.js (Dashboard), JavaScript (Chrome Extension)
-✅ Back End: Express.js (API)
-✅ Database: MongoDB
-✅ Machine Learning: XGBoost, Python
-📌 Setup & Installation
-🔹 To Start the Chrome Extension:
+### 🔹 **Chrome Extension & Dashboard**  
+✔ Fully operational **Chrome extension** with a user-friendly interface  
+✔ **Comprehensive dashboard** for monitoring safety alerts & analytics  
 
-1️⃣ Open Developer Tools
-2️⃣ Unpack Extension from the dist folder
-3️⃣ Run:
+### 🔹 **Seamless Development & Deployment**  
+✔ Built, integrated, and deployed an **optimized ML model**  
+✔ Ensures **real-time analysis** and **user protection**  
 
-npm run build
+### 🔹 **Core Detection Features**  
+✔ **Malicious URL Detection** (*fake, phishing, spam, scam, and malicious URLs*)  
+✔ **Clone URL Detection** (*detects visually similar but deceptive URLs*)  
+✔ **Clone Website Detection** (*identifies visually cloned fraudulent sites*)  
 
+---
+
+## 📌 **Tech Stack**  
+
+<img src="https://raw.githubusercontent.com/yourusername/repo/main/assets/tech-stack.png" width="800"/>  
+
+---
+
+## 📌 **Tools Used**  
+
+<img src="https://raw.githubusercontent.com/yourusername/repo/main/assets/tools.png" width="800"/>  
+
+---
+
+## 📌 **Setup & Installation**  
+
+### 🔹 **To Start the Chrome Extension:**  
+1. Open **Developer Tools**  
+2. **Unpack Extension** from the `dist` folder  
+3. Run:  
+   ```bash
+   npm run build
 🔹 To Start the Dashboard (Client):
 
 cd frontend  
@@ -48,6 +61,16 @@ cd backend
 cd api  
 nodemon server.js  
 
-🔗 Project Repository
+📌 Model Links
 
-🔗 GitHub Repository: Hack SafeClick
+🔗Front and Backend
+https://github.com/tejas05/SafeClick
+
+🔗 Clone URL Detection Model
+https://github.com/khushi505/Hack_SafeClick
+
+🔗 Clone Website Detection Model
+https://clone-6nb2.onrender.com/check-clone
+
+🔗 Extension Repository
+https://github.com/HARSHSINGH3118/SafeClick
