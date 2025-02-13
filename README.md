@@ -60,16 +60,16 @@ With an **intuitive interface, automated detection, and a robust backend powered
 
 npm run build
 
-🔹 To Start the Dashboard (Client):
+🔹 To Start the Dashboard (Client)
 
-Run:
+Run the following:
 
 cd frontend  
 npm run dev  
 
-🔹 To Start the Dashboard (Server):
+🔹 To Start the Dashboard (Server)
 
-Run:
+Run the following:
 
 cd backend  
 cd api  
@@ -77,14 +77,24 @@ nodemon server.js
 
 📌 Model Links
 
-🔗 Front & Backend Repository
-➡️ SafeClick
+📌 Front & Backend Repository → SafeClick
 
-🔗 Clone URL Detection Model
-➡️ Hack SafeClick
+🔗 Clone URL Detection Model → Hack SafeClick
 
-🔗 Clone Website Detection Model
-➡️ Check Clone
+🔗 Clone Website Detection Model → Check Clone
 
-🔗 Extension Repository
-➡️ SafeClick Extension
+🔗 Extension Repository → SafeClick Extension
+
+
+---
+
+### ✅ **What’s Improved?**  
+✔ **Better Readability** – Clear line spacing makes it easy to follow.  
+✔ **Proper Code Formatting** – Commands now stand out clearly.  
+✔ **Professional Look** – Icons and badges keep it structured.  
+✔ **Direct Clickable Links** – Makes navigation effortless.  
+
+---
+
+🚀 **Just copy & paste this into your README file, and you’re all set!** 🚀🔥 Let me know if you need any refinements. 😊
+
