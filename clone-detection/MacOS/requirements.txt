@@ -1,0 +1,10 @@
+pyppeteer
+scikit-image
+numpy
+requests
+beautifulsoup4
+scikit-learn
+Pillow
+fastapi
+uvicorn
+opencv-python
