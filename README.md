@@ -51,21 +51,25 @@ With an **intuitive interface, automated detection, and a robust backend powered
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
+📌 Setup & Installation
+🔹 To Start the Chrome Extension:
 
-## 📌 **Setup & Installation**  
+1️⃣ Open Developer Tools
+2️⃣ Unpack Extension from the dist folder
+3️⃣ Run the following command:
 
-### 🔹 **To Start the Chrome Extension:**  
-1. Open **Developer Tools**  
-2. **Unpack Extension** from the `dist` folder  
-3. Run:  
-   ```bash
-   npm run build
+npm run build
+
 🔹 To Start the Dashboard (Client):
+
+Run:
 
 cd frontend  
 npm run dev  
 
 🔹 To Start the Dashboard (Server):
+
+Run:
 
 cd backend  
 cd api  
@@ -73,14 +77,14 @@ nodemon server.js
 
 📌 Model Links
 
-🔗Front and Backend
-https://github.com/tejas05/SafeClick
+🔗 Front & Backend Repository
+➡️ SafeClick
 
 🔗 Clone URL Detection Model
-https://github.com/khushi505/Hack_SafeClick
+➡️ Hack SafeClick
 
 🔗 Clone Website Detection Model
-https://clone-6nb2.onrender.com/check-clone
+➡️ Check Clone
 
 🔗 Extension Repository
-https://github.com/HARSHSINGH3118/SafeClick
+➡️ SafeClick Extension
