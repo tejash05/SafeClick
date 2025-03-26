@@ -1,4 +1,4 @@
-# 🚀 Hack SafeClick  
+# 🚀 SafeClick  
 
 **Hack SafeClick** is a **cutting-edge Chrome extension** integrated with a **dashboard**, designed to protect users from phishing, scams, and malicious websites in real-time.  
 
